@@ -1,0 +1,130 @@
+[
+  {
+    "icon": "https://raw.githubusercontent.com/danymaxtellezdesarrollador-coder/MAX-AI-APP-/main/assets/apps/ai-launcher-bro/icon.png",
+    "developer": "Dany Max",
+    "name": "Ai Launcher Bro",
+    "size": "8.1 MB",
+    "downloadUrl": "https://github.com/danymaxtellezdesarrollador-coder/MAX-AI-APP-/releases/download/v-ai-launcher-bro-v1-0-1.0-78783/Ai_Launcher_Bro_v1.0.apk",
+    "id": 1790120342738,
+    "rating": 0,
+    "screenshots": [
+      "https://raw.githubusercontent.com/danymaxtellezdesarrollador-coder/MAX-AI-APP-/main/assets/apps/ai-launcher-bro/screenshot_1.jpg",
+      "https://raw.githubusercontent.com/danymaxtellezdesarrollador-coder/MAX-AI-APP-/main/assets/apps/ai-launcher-bro/screenshot_2.jpg",
+      "https://raw.githubusercontent.com/danymaxtellezdesarrollador-coder/MAX-AI-APP-/main/assets/apps/ai-launcher-bro/screenshot_3.jpg"
+    ],
+    "ratingsCount": 0,
+    "version": "V 1.0.beta",
+    "downloads": 0,
+    "description": "# Bro Launcher — Inteligente, Fluido y Personalizable\nBro Launcher es un launcher moderno, minimalista y ultrarrápido desarrollado en Kotlin nativo y Jetpack Compose. Diseñado para ofrecer la máxima personalización, integración con Inteligencia Artificial y una experiencia visual de siguiente nivel con estética Glassmorphism y Material Design 3.\n---\n### ✨ Características Principales:\n#### 🚀 Escritorio y Gestión Inteligente\n- **Creación fluida de carpetas**: Arrastra y suelta una aplicación sobre otra en cualquier pantalla para crear una carpeta automáticamente.\n- **Extracción intuitiva**: Arrastra aplicaciones fuera de las carpetas hacia el escritorio o sácalas con un solo toque desde el menú contextual.\n- **Carpetas estilo Lawnchair**: Soporte para visualización compacta y paginada con indicadores de puntos para carpetas con muchas apps.\n- **Personalización de carpetas**: Renombra, reordena y asigna colores únicos a cada carpeta.\n- **Dock dinámico**: Ancla tus aplicaciones, carpetas y accesos directos favoritos con soporte de varias filas o páginas.\n- **Soporte multipágina**: Añade páginas ilimitadas con transiciones suaves de 120Hz.\n#### 🎨 Personalización sin Límites\n- **Soporte de Icon Packs**: Compatible con paquetes de iconos de Google Play e Icon Pack Studio.\n- **Formas de iconos adaptativas**: Círculo, squircle, lágrima, hexágono, rounded square y más.\n- **Filtro Crystal & Glassmorphism**: Efectos de desenfoque, brillo y transparencias de cristal personalizables.\n- **Colores Material You (M3)**: Adaptación automática a los colores de tu fondo de pantalla o paletas personalizadas.\n- **Renombrado individual de apps**: Cambia el nombre de cualquier icono o restaura su etiqueta original.\n#### 🤖 Asistente Bro AI Integrado\n- **Chat interactivo con IA**: Acceso instantáneo a Bro AI desde el escritorio o la barra de búsqueda.\n- **Comandos y voz (TTS & STT)**: Respuestas inteligentes por texto o voz sintetizada.\n- **Automatización**: Pregunta por información, abre apps o busca en internet sin salir de la interfaz.\n#### 📰 Feed de Noticias y Daily Briefing\n- **Pantalla Feed integrada**: Desliza a la izquierda para ver un resumen diario de noticias.\n- **Daily Briefing**: Tarjeta de bienvenida con saludo, clima, hora y noticias leídas en voz alta.\n- **Categorías seleccionables**: Filtra por Tecnología, Ciencia, Entretenimiento, Deportes y más.\n#### 🌦️ Widgets Nativos y Búsqueda\n- **Widget de Reloj & Clima Real**: Temperatura en tiempo real, condiciones meteorológicas y pronóstico detallado.\n- **Barra de búsqueda Pixel-Style**: Acceso a apps instaladas, búsqueda web en tu navegador favorito y atajo a micrófono.\n#### ⚡ Rendimiento, Gestos y Privacidad\n- **Gestos rápidos**: Deslizar arriba para cajón de aplicaciones, deslizar abajo para notificaciones o búsqueda y doble toque para apagar la pantalla.\n- **Ultraligero (~8 MB)**: Sin telemetría intrusiva, sin publicidad y con almacenamiento local en base de datos Room para máxima privacidad y autonomía de batería.\n---\n### 📱 Requisitos e Instalación:\n- Compatible con **Android 8.0 (Oreo) o superior**.\n- Optimizado para pantallas de alta tasa de refresco (90Hz / 120Hz)."
+  },
+  {
+    "downloadUrl": "https://github.com/danymaxtellezdesarrollador-coder/MAX-AI-APP-/releases/download/v-es-file-bro-0.0-70781/ES_File_Bro_v1.0.0.apk",
+    "ratingsCount": 0,
+    "description": "# ES File Bro - El Explorador y Gestor de Archivos Definitivo para Android\n\n**ES File Bro** es una potente solución integral de gestión de archivos, conectividad y mantenimiento para dispositivos Android. Diseñado bajo las directrices modernas de **Material Design 3** y desarrollado de forma nativa en **Jetpack Compose**, ofrece una experiencia de usuario rápida, fluida y con un consumo de recursos mínimo.\n\n---\n\n### 📂 Gestión Integral del Almacenamiento\n* **Exploración Total:** Navega por la memoria interna del dispositivo, tarjetas de memoria microSD y unidades externas USB OTG.\n* **Sistema de Pestañas Dinámicas:** Abre múltiples ubicaciones en pestañas independientes para copiar, comparar y organizar tus carpetas de manera simultánea sin perder tu posición.\n* **Acceso Rápido por Categorías:** Clasificación instantánea para Imágenes, Vídeos, Música/Audio, Documentos, Archivos Comprimidos y APKs instalables.\n* **Búsqueda Avanzada en Tiempo Real:** Localiza archivos rápidamente aplicando filtros inteligentes por nombre, extensión, tamaño y fecha de modificación.\n* **Vistas Configurables:** Alterna fácilmente entre vista de lista detallada, cuadrícula compacta y cuadrícula amplia con metadatos completos.\n\n---\n\n### ⚡ Compatibilidad Avanzada con Shizuku (Android 11 a 15+)\n* **Acceso a Carpetas del Sistema:** Accede y administra con total libertad directorios restringidos como `Android/data` y `Android/obb` sin requerir permisos de Root tradicionales.\n* **Operaciones Seguras y Silenciosas:** Copia, mueve, renombra y extrae elementos en áreas protegidas del sistema con total confiabilidad y rapidez.\n* **Instalador Silencioso:** Instalación fluida y desatendida de aplicaciones mediante la API de Shizuku.\n\n---\n\n### 🛠️ Suite de Mantenimiento y Rendimiento\n* **Limpiador de Carpetas Vacías:** Algoritmo de escaneo recursivo ultra-rápido para detectar y eliminar directorios residuales huérfanos, con lista de exclusión para carpetas críticas del sistema.\n* **Limpiador Profundo de Caché:** Analiza el espacio ocupado por la memoria caché de tus aplicaciones instaladas y automatiza su limpieza para recuperar almacenamiento de forma segura.\n* **Congelador de Aplicaciones (App Freezer):** Hiberna temporalmente aplicaciones que no usas frecuentemente para liberar memoria RAM y ahorrar batería.\n* **Administrador de Procesos (Task Killer):** Monitoriza y detiene servicios o aplicaciones en segundo plano que ralentizan el rendimiento del sistema.\n* **Cortafuegos Local (Firewall):** Gestiona y bloquea el tráfico de red de aplicaciones para proteger tu privacidad y evitar consumo indeseado de datos.\n\n---\n\n### 🌐 Conectividad y Redes Inalámbricas\n* **PC Web Share (Servidor HTTP Local):** Transfiere archivos entre tu móvil y cualquier PC, Mac, Linux o Smart TV conectada a la misma red Wi-Fi directamente desde el navegador web, sin necesidad de cables ni software adicional. Incluye compresión dinámica de carpetas en formato ZIP mediante streaming continuo (Cero-Copia de memoria).\n* **Servidor FTP Completo:** Transforma tu dispositivo en un servidor de archivos profesional con soporte para autenticación personalizada, control de puertos y compatibilidad con clientes como FileZilla o el Explorador de Windows.\n* **Explorador de Red SMB:** Conéctate y transfiere documentos hacia y desde servidores compartidos de red local (Samba / Windows Share).\n\n---\n\n### 🔐 Seguridad y Privacidad\n* **Cifrado de Archivos (.Bro):** Protege tus documentos, fotos o archivos confidenciales mediante encriptación robusta protegida por contraseña para evitar accesos no autorizados.\n* **Papelera de Reciclaje Integrada:** Previene pérdidas accidentales permitiendo restaurar o eliminar definitivamente tus archivos cuando lo decidas.\n* **Control de Archivos Ocultos:** Muestra u oculta archivos y carpetas del sistema con un solo toque.\n\n---\n\n### 🎬 Herramientas Multimedia y Productividad\n* **Editor de Código y Texto:** Visor y editor integrado con resaltado de sintaxis, numeración de líneas y compatibilidad con múltiples formatos (TXT, JSON, XML, HTML, LOG, etc.).\n* **Cortador de Vídeo (Video Trimmer):** Herramienta nativa para recortar y ajustar la duración de vídeos directamente desde el explorador.\n* **Gestor e Instalador de Paquetes:** Inspecciona permisos de APKs antes de instalarlas y haz copias de seguridad de tus aplicaciones instaladas.",
+    "screenshots": [
+      "https://raw.githubusercontent.com/danymaxtellezdesarrollador-coder/MAX-AI-APP-/main/assets/apps/es-file-bro/screenshot_1.jpg",
+      "https://raw.githubusercontent.com/danymaxtellezdesarrollador-coder/MAX-AI-APP-/main/assets/apps/es-file-bro/screenshot_2.jpg",
+      "https://raw.githubusercontent.com/danymaxtellezdesarrollador-coder/MAX-AI-APP-/main/assets/apps/es-file-bro/screenshot_3.jpg"
+    ],
+    "version": "1.0",
+    "name": "ES File Bro",
+    "size": "34.3 MB",
+    "downloads": 2,
+    "id": 1788524071206,
+    "rating": 0,
+    "icon": "https://raw.githubusercontent.com/danymaxtellezdesarrollador-coder/MAX-AI-APP-/main/assets/apps/es-file-bro/icon.png",
+    "developer": "Dany Max"
+  },
+  {
+    "icon": "https://raw.githubusercontent.com/danymaxtellezdesarrollador-coder/MAX-AI-APP-/main/assets/apps/carpeta-dock-launcher/icon.png",
+    "rating": 0,
+    "id": 1788375920015,
+    "downloads": 0,
+    "downloadUrl": "https://github.com/danymaxtellezdesarrollador-coder/MAX-AI-APP-/releases/download/v-carpeta-dock-launcher-1.0-25201/Carpeta_Dock_Launcher_v1.0.apk",
+    "ratingsCount": 0,
+    "description": "# Carpeta Dock Launcher\n\n**Carpeta Dock Launcher** es una innovadora herramienta de productividad y personalización para Android que transforma la manera en que organizas y accedes a tus aplicaciones. Diseñada con una estética moderna inspirada en Material Design 3 y efectos de desenfoque estilo *glassmorphism*, ofrece una experiencia de carpeta flotante y dock inteligente fluida, adaptable y sin distracciones.\n\n---\n\n### 🚀 Características Principales\n\n#### 📱 Dos Modos de Vista Dinámicos\n* **Modo Dock Compacto (Carrusel Paginado 4×1):**\n* Presenta tus accesos rápidos en una fila horizontal paginada (4 columnas por página).\n* Distribución proporcional matemática (`weight(1f)`) que mantiene la proporción cuadrada perfecta (1:1) de cada icono sin importar su tamaño, evitando que se aplasten en pantallas de cualquier densidad.\n* Indicadores visuales de página animados y discretos.\n* **Modo Cuadrícula Expandida (4×3 Vertical):**\n* Expansión fluida a una cuadrícula espaciosa de 4 columnas.\n* Desplazamiento vertical infinito y suave para acceder cómodamente a todas tus aplicaciones sin restricciones de espacio.\n\n#### 👆 Gestos y Control Intuitivo\n* **Deslizar hacia arriba (Swipe Up):** Abre y expande instantáneamente la carpeta a su vista grande.\n* **Deslizar hacia abajo (Swipe Down):** Contrae la carpeta suavemente de vuelta al modo dock desde el tirador táctil superior (*drag handle*).\n* **Botón de alternancia rápida:** Icono dedicado en la cabecera para alternar entre vista compacta y cuadrícula con un solo toque.\n* **Integración con el botón Atrás:** Compatibilidad nativa con gestos del sistema Android para contraer y volver entre carpetas de forma natural.\n\n#### 📁 Subcarpetas Ilimitadas y Organización Profunda\n* **Creación de Subcarpetas:** Organiza tus aplicaciones en categorías temáticas (Juegos, Redes, Productividad, Multimedia, etc.) dentro de la misma carpeta principal.\n* **Navegación Multinivel:** Pila de navegación fluida con botón de retorno y jerarquía clara.\n* **Renombrado In-Situ:** Edita el nombre de cualquier carpeta o subcarpeta al instante con un simple toque.\n\n#### 🎨 Personalización y Experiencia Visual\n* **Selector Rápido de Apps:** Panel intuitivo con motor de búsqueda en tiempo real para añadir cualquier app instalada en segundos.\n* **Modo de Gestión Rápida:** Mantén pulsado cualquier icono para entrar en el modo de eliminación/organización con insignias visuales claras.\n* **Diseño Glassmorphism Premium:** Bordes redondeados, acabados translúcidos y acentos en tonos neón cian/lavanda sobre fondos de alto contraste visual.\n* **Respetuoso con los Recursos:** Ultra liviano, sin consumo de batería en segundo plano, sin publicidad y con persistencia 100% local y privada.",
+    "screenshots": [
+      "https://raw.githubusercontent.com/danymaxtellezdesarrollador-coder/MAX-AI-APP-/main/assets/apps/carpeta-dock-launcher/screenshot_1.jpg",
+      "https://raw.githubusercontent.com/danymaxtellezdesarrollador-coder/MAX-AI-APP-/main/assets/apps/carpeta-dock-launcher/screenshot_2.jpg",
+      "https://raw.githubusercontent.com/danymaxtellezdesarrollador-coder/MAX-AI-APP-/main/assets/apps/carpeta-dock-launcher/screenshot_3.jpg"
+    ],
+    "version": "1.0",
+    "developer": "Dany Max",
+    "size": "22.1 MB",
+    "name": "Carpeta Dock Launcher"
+  },
+  {
+    "description": "# Ai Feed - Tu Launcher Inteligente en Formato Feed\n\n**Ai Feed** es un lanzador de aplicaciones (launcher) moderno, minimalista y altamente productivo diseñado para transformar la pantalla de inicio de tu dispositivo Android en un flujo continuo y elegante de tarjetas modulares. Olvídate del desorden de escritorios tradicionales y accede a lo que realmente necesitas de forma rápida, inteligente y organizada.\n\n---\n\n### ✨ Características Principales\n\n#### 🗂️ Organización Inteligente en Tarjetas y Categorías\n- **Tarjetas Personalizadas:** Crea y organiza categorías temáticas con tus aplicaciones favoritas (Redes Sociales, Trabajo, Entretenimiento, Finanzas, etc.).\n- **Auto-Ocultación Inteligente:** Las categorías se limpian y auto-ocultan automáticamente si ninguna de las apps asignadas está instalada, manteniendo tu feed siempre limpio y libre de espacios vacíos.\n- **Categorías Dinámicas del Sistema:** Acceso rápido a aplicaciones recientes y a las aplicaciones más usadas calculadas con estadísticas reales del sistema.\n\n#### ⚡ Gestión Rápida de Aplicaciones\n- **Menú Contextual Avanzado:** Mantén presionado cualquier icono de app en las tarjetas o en el cajón para acceder a opciones esenciales del sistema:\n- ℹ️ **Info de la Aplicación:** Abre de inmediato los ajustes del sistema de Android (permisos, almacenamiento y batería).\n- 🗑️ **Desinstalar:** Desinstala cualquier aplicación con confirmación nativa en un solo toque.\n\n#### 🌐 Atajos Web Integrados (Web Shortcuts)\n- Agrega tus sitios web y herramientas favoritas directamente en el feed.\n- Edición completa de atajos: modifica la URL, el nombre y asigna un icono o imagen personalizada.\n- Apertura directa y fluida en tu navegador predeterminado.\n\n#### ⛅ Widgets Nativos de Productividad\n- **Clima en Tiempo Real:** Condiciones meteorológicas actuales, temperatura y pronóstico actualizado automáticamente con soporte para ubicación GPS o ciudad manual.\n- **Reproductor Multimedia Flotante:** Controla tu música y podcasts en reproducción (Spotify, YouTube Music, etc.) directamente desde una tarjeta dedicada en tu feed.\n- **Daily Briefing:** Tarjeta de bienvenida con fecha, hora y resumen del día.\n\n#### 🎨 Personalización y Estética Exclusiva\n- **Estilos Visuales Avanzados:** Diseños con acabados Material 3, soporte Glassmorphism (efecto cristal con brillo y bordes translúcidos) y modo E-Paper minimalista.\n- **Personalización de Tarjetas e Iconos:** Ajuste de colores por tarjeta, paletas dinámicas, tamaño de iconos y formas adaptativas (Squircle, redondeado, original).\n- **Búsqueda Instantánea:** Barra de búsqueda universal con filtrado veloz en tiempo real de aplicaciones y categorías.\n- **Cajón de Aplicaciones (App Drawer):** Navegación alfabética clara con barra de salto rápido e indexación inmediata.\n\n---\n\n### 🔒 Privacidad y Rendimiento\n- **100% Local y Seguro:** Tu configuración, categorías y atajos se almacenan de manera local y cifrada en tu dispositivo.\n- **Fluidez y Bajo Consumo:** Construido con Jetpack Compose y Kotlin para máxima eficiencia energética y suavidad en cada desplazamiento.",
+    "ratingsCount": 0,
+    "screenshots": [
+      "https://raw.githubusercontent.com/danymaxtellezdesarrollador-coder/MAX-AI-APP-/main/assets/apps/ai-feed/screenshot_1.jpg",
+      "https://raw.githubusercontent.com/danymaxtellezdesarrollador-coder/MAX-AI-APP-/main/assets/apps/ai-feed/screenshot_2.jpg",
+      "https://raw.githubusercontent.com/danymaxtellezdesarrollador-coder/MAX-AI-APP-/main/assets/apps/ai-feed/screenshot_3.jpg"
+    ],
+    "downloads": 1,
+    "downloadUrl": "https://github.com/danymaxtellezdesarrollador-coder/MAX-AI-APP-/releases/download/v-ai-feed-1.0-16773/Ai_Feed_v1.4.beta_.apk",
+    "name": "Ai Feed",
+    "id": 1788372794635,
+    "size": "4.0 MB",
+    "rating": 0,
+    "icon": "https://raw.githubusercontent.com/danymaxtellezdesarrollador-coder/MAX-AI-APP-/main/assets/apps/ai-feed/icon.png",
+    "developer": "Dany Max",
+    "version": "1.4.beta"
+  },
+  {
+    "downloads": 0,
+    "rating": 0,
+    "icon": "https://drive.google.com/file/d/1vPqW1X3ZMdlbzlKPeUdPjm10gZGrKElJ/view?usp=drivesdk",
+    "developer": "Dany Max",
+    "version": "1.0.0",
+    "downloadUrl": "https://drive.google.com/file/d/173Il3_TR3aWLigY0KgrF6YueE4G5dTvp/view?usp=drivesdk",
+    "screenshots": [
+      "https://drive.google.com/file/d/187pIAOJTrRV-Nvw6cvrfjEEB1nhxTtqK/view?usp=drivesdk",
+      "https://drive.google.com/file/d/1sEXF5RWO5wlrgIN62HDq4Vy0LUT3LY_0/view?usp=drivesdk",
+      "https://drive.google.com/file/d/1hovmgYEKXg6Wd8EseYOWNGHEyfLZ7INZ/view?usp=drivesdk"
+    ],
+    "description": "Herramienta práctica y precisa para capturar, identificar y copiar códigos de color en formatos HEX y RGB directamente en tu dispositivo. Diseñada para facilitar el flujo de trabajo de diseñadores, desarrolladores y creadores de contenido.",
+    "ratingsCount": 0,
+    "name": "Selector de Color",
+    "id": 1785895010552,
+    "size": "6.2 MB"
+  },
+  {
+    "icon": "https://drive.google.com/file/d/1YsgcXMCNWjANQPT7HpczT60j3uq4lTIA/view?usp=drivesdk",
+    "id": 1785894786926,
+    "ratingsCount": 0,
+    "name": "Bloqueo Táctil",
+    "description": "Bloquea la interacción táctil de la pantalla mientras reproduces vídeos en YouTube o escuchas música y podcasts en cualquier aplicación, evitando toques accidentales y ahorrando batería.\n\n### Características principales:\n* **Ahorro de batería:** Escucha contenido con la tranquilidad de no activar toques en el bolsillo o en la mano.\n* **3 temas visuales incluidos:** Modo transparente, reloj clásico/antiguo y modo pantalla apagada para máxima eficiencia energética.\n* **Fácil activación y desbloqueo:** Control rápido e intuitivo para pausar o reanudar la pantalla cuando lo necesites.",
+    "version": "1.0.0",
+    "downloadUrl": "https://github.com/danymaxtellezdesarrollador-coder/MAX-AI-APP-/releases/download/v-bloqueo-t-ctil-1.0.0-02123/Protector_T_ctil_v1.1.apk",
+    "screenshots": [
+      "https://drive.google.com/file/d/1kgk5mprTRvACK_r55YmF9blJsQtvvQVZ/view?usp=drivesdk",
+      "https://drive.google.com/file/d/1ClaEvEA7dS5WZWlIqJK2yXOXtSl-cR7R/view?usp=drivesdk",
+      "https://drive.google.com/file/d/1dGTsQNU3T5Nz9j_Illqj2C-TpFnXaLWx/view?usp=drivesdk"
+    ],
+    "developer": "Dany Max",
+    "size": "16.5 MB",
+    "downloads": 0,
+    "rating": 0
+  },
+  {
+    "icon": "https://drive.google.com/file/d/1MYOFEkbDGhbXGGiZkQkrku-JXu0msV1V/view?usp=drivesdk",
+    "downloads": 0,
+    "version": "1.0.0",
+    "id": 1785885830978,
+    "developer": "Dany Max",
+    "downloadUrl": "https://drive.google.com/file/d/1jmFgHm0mRFe2xQEdDH-vYZYR3E266m_4/view?usp=drivesdk",
+    "ratingsCount": 0,
+    "rating": 0,
+    "screenshots": [
+      "https://drive.google.com/file/d/15f7ozLnOnDl04OhGNs9LJNQcgkZQfB98/view?usp=drivesdk",
+      "https://drive.google.com/file/d/1FUXV4a-D6vcYP6dfxeLsVZVwhOtZPPkb/view?usp=drivesdk",
+      "https://drive.google.com/file/d/1qW3EFqvPCt2s10EwLIEiMbxYFvn3yhnJ/view?usp=drivesdk",
+      "https://drive.google.com/file/d/1RbIuLgbD6eNNanjxpQVkyxI481rSUMWb/view?usp=drivesdk",
+      "https://drive.google.com/file/d/1wsLvJfw3354NOvI0RvDWTf04IymAGTJk/view?usp=drivesdk"
+    ],
+    "description": "Personaliza tu dispositivo con animaciones fluidas y efectos visuales modernos cada vez que conectes tu teléfono al cargador. Transforma la pantalla de carga convencional en una experiencia visual atractiva y elegante mientras monitorizas el estado de tu batería.",
+    "size": "10 MB",
+    "name": "Pantalla de Carga"
+  }
+]
